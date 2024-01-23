@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/Project/C_vscode/mylib/find_kth_element/build",
+  "command": "E:\\SDK-Win\\w64devkit\\bin\\gcc.exe -ID:/Project/C_vscode/mylib/find_kth_element/sources -g -o CMakeFiles\\find_kth_element.dir\\sources\\find_kth_element.c.obj -c D:\\Project\\C_vscode\\mylib\\find_kth_element\\sources\\find_kth_element.c",
+  "file": "D:\\Project\\C_vscode\\mylib\\find_kth_element\\sources\\find_kth_element.c",
+  "output": "CMakeFiles\\find_kth_element.dir\\sources\\find_kth_element.c.obj"
+},
+{
+  "directory": "D:/Project/C_vscode/mylib/find_kth_element/build",
+  "command": "E:\\SDK-Win\\w64devkit\\bin\\gcc.exe -ID:/Project/C_vscode/mylib/find_kth_element/sources -g -o CMakeFiles\\test.dir\\test\\test.c.obj -c D:\\Project\\C_vscode\\mylib\\find_kth_element\\test\\test.c",
+  "file": "D:\\Project\\C_vscode\\mylib\\find_kth_element\\test\\test.c",
+  "output": "CMakeFiles\\test.dir\\test\\test.c.obj"
+},
+{
+  "directory": "D:/Project/C_vscode/mylib/find_kth_element/build",
+  "command": "E:\\SDK-Win\\w64devkit\\bin\\gcc.exe -ID:/Project/C_vscode/mylib/find_kth_element/sources -g -o CMakeFiles\\test.dir\\sources\\find_kth_element.c.obj -c D:\\Project\\C_vscode\\mylib\\find_kth_element\\sources\\find_kth_element.c",
+  "file": "D:\\Project\\C_vscode\\mylib\\find_kth_element\\sources\\find_kth_element.c",
+  "output": "CMakeFiles\\test.dir\\sources\\find_kth_element.c.obj"
+}
+]

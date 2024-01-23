@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"cmake.generator": "Ninja",
+		"files.associations": {
+			"*.H": "c",
+			"*.v": "verilog",
+			"stdio.h": "c",
+			"random": "c",
+			"math.h": "c",
+			"xstring": "c",
+			"xutility": "c",
+			"ostream": "cpp",
+			"iostream": "cpp"
+		}
+	}
+}
