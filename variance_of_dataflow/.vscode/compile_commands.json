@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/Project/C_vscode/mylib/variance_of_dataflow/build",
+  "command": "E:\\SDK-Win\\w64devkit\\bin\\gcc.exe -ID:/Project/C_vscode/mylib/variance_of_dataflow/sources -g -o CMakeFiles\\variance_of_dataflow.dir\\sources\\variance_of_dataflow.c.obj -c D:\\Project\\C_vscode\\mylib\\variance_of_dataflow\\sources\\variance_of_dataflow.c",
+  "file": "D:\\Project\\C_vscode\\mylib\\variance_of_dataflow\\sources\\variance_of_dataflow.c",
+  "output": "CMakeFiles\\variance_of_dataflow.dir\\sources\\variance_of_dataflow.c.obj"
+},
+{
+  "directory": "D:/Project/C_vscode/mylib/variance_of_dataflow/build",
+  "command": "E:\\SDK-Win\\w64devkit\\bin\\gcc.exe -ID:/Project/C_vscode/mylib/variance_of_dataflow/sources -g -o CMakeFiles\\test.dir\\test\\test.c.obj -c D:\\Project\\C_vscode\\mylib\\variance_of_dataflow\\test\\test.c",
+  "file": "D:\\Project\\C_vscode\\mylib\\variance_of_dataflow\\test\\test.c",
+  "output": "CMakeFiles\\test.dir\\test\\test.c.obj"
+},
+{
+  "directory": "D:/Project/C_vscode/mylib/variance_of_dataflow/build",
+  "command": "E:\\SDK-Win\\w64devkit\\bin\\gcc.exe -ID:/Project/C_vscode/mylib/variance_of_dataflow/sources -g -o CMakeFiles\\test.dir\\sources\\variance_of_dataflow.c.obj -c D:\\Project\\C_vscode\\mylib\\variance_of_dataflow\\sources\\variance_of_dataflow.c",
+  "file": "D:\\Project\\C_vscode\\mylib\\variance_of_dataflow\\sources\\variance_of_dataflow.c",
+  "output": "CMakeFiles\\test.dir\\sources\\variance_of_dataflow.c.obj"
+}
+]
