@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"cmake.generator": "Ninja",
+		"files.associations": {
+			"*.H": "c",
+			"*.v": "verilog",
+			"*.veo": "verilog",
+			"*.h": "c",
+			"*.ymal": "yaml",
+			"stdio.h": "c",
+			"random": "c",
+			"math.h": "c",
+			"xstring": "c",
+			"xutility": "c",
+			"ostream": "cpp",
+			"iostream": "cpp",
+			"typeinfo": "c",
+			"compare": "c",
+			"type_traits": "c",
+			"cmath": "c"
+		}
+	}
+}

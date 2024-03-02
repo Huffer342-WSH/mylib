@@ -1,0 +1,32 @@
+[
+{
+  "directory": "F:/project/mylib/queue/build",
+  "command": "D:\\SDK\\w64devkit\\bin\\gcc.exe -IF:/project/mylib/queue/sources -g -o CMakeFiles\\variance_of_dataflow.dir\\sources\\queue.c.obj -c F:\\project\\mylib\\queue\\sources\\queue.c",
+  "file": "F:\\project\\mylib\\queue\\sources\\queue.c",
+  "output": "CMakeFiles\\variance_of_dataflow.dir\\sources\\queue.c.obj"
+},
+{
+  "directory": "F:/project/mylib/queue/build",
+  "command": "D:\\SDK\\w64devkit\\bin\\gcc.exe -IF:/project/mylib/queue/sources -g -o CMakeFiles\\test_queue.dir\\test\\test_queue.c.obj -c F:\\project\\mylib\\queue\\test\\test_queue.c",
+  "file": "F:\\project\\mylib\\queue\\test\\test_queue.c",
+  "output": "CMakeFiles\\test_queue.dir\\test\\test_queue.c.obj"
+},
+{
+  "directory": "F:/project/mylib/queue/build",
+  "command": "D:\\SDK\\w64devkit\\bin\\gcc.exe -IF:/project/mylib/queue/sources -g -o CMakeFiles\\test_queue.dir\\sources\\queue.c.obj -c F:\\project\\mylib\\queue\\sources\\queue.c",
+  "file": "F:\\project\\mylib\\queue\\sources\\queue.c",
+  "output": "CMakeFiles\\test_queue.dir\\sources\\queue.c.obj"
+},
+{
+  "directory": "F:/project/mylib/queue/build",
+  "command": "D:\\SDK\\w64devkit\\bin\\gcc.exe -IF:/project/mylib/queue/sources -g -o CMakeFiles\\test_qfifo.dir\\test\\test_qfifo.c.obj -c F:\\project\\mylib\\queue\\test\\test_qfifo.c",
+  "file": "F:\\project\\mylib\\queue\\test\\test_qfifo.c",
+  "output": "CMakeFiles\\test_qfifo.dir\\test\\test_qfifo.c.obj"
+},
+{
+  "directory": "F:/project/mylib/queue/build",
+  "command": "D:\\SDK\\w64devkit\\bin\\gcc.exe -IF:/project/mylib/queue/sources -g -o CMakeFiles\\test_qfifo.dir\\sources\\queue.c.obj -c F:\\project\\mylib\\queue\\sources\\queue.c",
+  "file": "F:\\project\\mylib\\queue\\sources\\queue.c",
+  "output": "CMakeFiles\\test_qfifo.dir\\sources\\queue.c.obj"
+}
+]
